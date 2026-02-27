@@ -1,0 +1,8 @@
+{
+  "name": "InsightAI Research Agent",
+  "description": "A deeply grounded AI research assistant that utilizes Google Search to provide factual, cited, and up-to-date answers for complex queries.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
